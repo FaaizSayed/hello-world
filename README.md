@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi everyone
+
+My name is faaiz and i am a self taught and passionate front-end developer and designer
